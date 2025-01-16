@@ -1,0 +1,26 @@
+body {
+    background-color: #FFF;
+}
+
+img {
+    border-width: 0;
+}
+/* This selects an <img> element with the id arrow */
+img#arrow, img#arrowImg {
+    width: 147px;
+    height: 82px;
+}
+/* id */
+#button1, #button2 {
+    width: 113px;
+    height: 33px;
+}
+/* class */
+.centered { // dot class
+    text-align: center;
+}
+/*   id   */
+#adBanner {
+    width: 400px;
+    height: 75px;
+}
